@@ -7,5 +7,5 @@ It is totally responsive to different screens using media queries, Grid, and Fle
 ## How to Run the project?
 - You can download the .zip file and run it locally on your device by opening the index.html file<br>
 or<br>
-- You can find the project was hosted on GitHub throw [this link](https://mohamed-hafez24.github.io/Blog-Websit/Blog_Post.html)
+- You can find the project was hosted on GitHub throw [this link](https://mohamed-hafez24.github.io/Blog-Websit/index.html)
 
